@@ -8,4 +8,6 @@ This image shows us the text written in the designated box after recording. As w
 ![second](https://github.com/user-attachments/assets/ef2003f4-aceb-47bc-adeb-a2b0e7007fcd)
 
 Finally, every time a voice is recorded, it is stored in the database named "Converter" and in the table named "SpeakerText," which contains two columns: "id" and "Text." As we can see, the storage process has been done correctly:
+![db](https://github.com/user-attachments/assets/bb205e3d-47b5-4bbf-a238-7a8e4bc643ee)
+
 
